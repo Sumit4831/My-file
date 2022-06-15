@@ -1,0 +1,7 @@
+http://localhost:8080/
+https://github.com/Sumit4831/githubsumit.git
+
+
+EWLPS8416K
+435554526557
+https://www.tutorialspoint.com/jenkins/jenkins_setup_build_jobs.htm
